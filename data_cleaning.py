@@ -29,4 +29,4 @@ df_train = df_train.replace(["Minor_Damage_And_Injuries", "Significant_Damage_An
 X = df_train.drop(['Severity'], axis=1)
 y = df_train['Severity']
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=42, stratify=y)

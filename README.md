@@ -16,7 +16,7 @@ In 2018, there were 15 airplane accidents of varying severity each year, with ov
 
 Predict the severity of an airplane accident based on several features:
 * Number of days since inspection
-* Total safety complains
+* Total safety complaints
 * An estimation of how much control the pilot had during the incident
 * Turbulence
 * Cabin temperature

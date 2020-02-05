@@ -16,15 +16,15 @@ We approached this challenge as if we were hired by the [Aviation Safety Network
 ## Project Goals
 
 We want to predict the severity of an airplane accident based on several features:
-    - Number of days since inspection 
-    - Total safety complains
-    - An estimation of how much control the pilot had during the incident
-    - Turbulence
-    - Cabin temperature
-    - Accident type
-    - Max elevation achieved
-    - Number of prior violations
-    - Safety score (a measure of how safe the plane was deemed to be)
+* Number of days since inspection 
+* Total safety complains
+* An estimation of how much control the pilot had during the incident
+* Turbulence
+* Cabin temperature
+* Accident type
+* Max elevation achieved
+* Number of prior violations
+* Safety score (a measure of how safe the plane was deemed to be)
 
 ## Data Summary 
 The data came from a competition hosted by [hackerearth.com](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/machine-learning/how-severe-can-an-airplane-accident-be-03e7a3f1/). The data came separated in two csv files, one labeled train and the other labeled test. Only the train data was used to develop our models. The test csv was used to validate our results after we had trained our models. 

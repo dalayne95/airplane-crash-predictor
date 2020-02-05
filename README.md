@@ -31,15 +31,20 @@ The data came from a competition hosted by [hackerearth.com](https://www.hackere
 
 ## File Summary
 
+**Data Files**
+[Data Files](https://github.com/dalayne95/airplane-crash-predictor/tree/master/3c055e822d5b11ea)
+
+**Data Cleaning Files**
+[Cleaning](https://github.com/dalayne95/airplane-crash-predictor/blob/master/data_cleaning.py)
+
 **Notebooks:**
-* [Exploratory Data Analysis](https://github.com/dalayne95/airplane-crash-predictor/blob/nick/EDA-darian.ipynb)
-* [Technical Notebook]()
+* [Exploratory Data Analysis]()
+* [Technical Notebook](https://github.com/dalayne95/airplane-crash-predictor/blob/master/project_notebook.ipynb)
 
 **Presentation:**
 * [Presentation Slide Deck]()
 
-**Data Folder:**
-* [Data](https://github.com/dalayne95/airplane-crash-predictor/tree/nick/3c055e822d5b11ea)
+
 
 
 

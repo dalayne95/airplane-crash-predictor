@@ -8,11 +8,13 @@
 
 
 ## Context
-In 2018, there were 15 airplane accidents of varying severity each year, with over 500 deaths. Although airplane safety continues to increase each year, we are interested in knowing if this number can be reduced further. We plan to investigate this by predicting the severity of a crash based on crash details, and determining which factors weight the most heavily on the severity of an accident.
+We approached this challenge as if we were hired by the [ASN](https://aviation-safety.net)(Aviation Safety Network) in conjunction with the [Flight Safety Foundation](https://flightsafety.org) to investigate which factors contributed to the increase of fatalities during 2018.
+Despite 2018 being one of the safest years on record for commercial aviation, there was a 50% increase of incidents  from 2017 resulting in more than a 1000% increase in fatalities.
+With the information provided, we will be able to advise the ASN on how to potentially minimize the severity of a given airline crash.
 
 [Data Source](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/machine-learning/how-severe-can-an-airplane-accident-be-03e7a3f1/)
 
-## Goals
+## Project Goals
 
 Predict the severity of an airplane accident based on several features:
 * Number of days since inspection
@@ -23,3 +25,22 @@ Predict the severity of an airplane accident based on several features:
 * Accident type
 * Max elevation
 * Number of prior violations
+
+## Data Summary 
+The data came from a competition hosted by [hackerearth.com](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/machine-learning/how-severe-can-an-airplane-accident-be-03e7a3f1/). The data came separated in two csv files, one labeled train and the other labeled test. Only the train data was used to develop our models. The test csv was used to validate our results after we had trained our models. 
+
+## File Summary
+
+**Notebooks:**
+* [Exploratory Data Analysis](https://github.com/dalayne95/airplane-crash-predictor/blob/nick/EDA-darian.ipynb)
+* [Technical Notebook]()
+
+**Presentation:**
+* [Presentation Slide Deck]()
+
+**Data Folder:**
+* [Data](https://github.com/dalayne95/airplane-crash-predictor/tree/nick/3c055e822d5b11ea)
+
+
+
+

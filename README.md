@@ -41,13 +41,8 @@ The data came from a competition hosted by [hackerearth.com](https://www.hackere
 * [Technical Notebook](https://github.com/dalayne95/airplane-crash-predictor/blob/master/technical%20notebook/project_notebook.ipynb)
 
 **Presentation:**
-* [Presentation Slide Deck](https://docs.google.com/presentation/d/1GyPhu81TtPxANO8mFjH0Ba-TxUnnO-QVRqcD7xyeVDE/edit?usp=sharing)
+* [Presentation Slide Deck](https://docs.google.com/presentation/d/1GyPhu81TtPxANO8mFjH0Ba-TxUnnO-QVRqcD7xyeVDE/present?includes_info_params=1&eisi=CMbM7OWLu-cCFeYvyAodNrgLmw#slide=id.p
+)
 
 **Website:**
 * [DNT Consulting Website](https://sites.google.com/view/dtnconsulting/home)
-
-
-
-
-
-

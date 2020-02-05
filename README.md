@@ -8,9 +8,8 @@
 
 
 ## Context
-We approached this challenge as if we were hired by the [ASN](https://aviation-safety.net)(Aviation Safety Network) in conjunction with the [Flight Safety Foundation](https://flightsafety.org) to investigate which factors contributed to the increase of fatalities during 2018.
-Despite 2018 being one of the safest years on record for commercial aviation, there was a 50% increase of incidents  from 2017 resulting in more than a 1000% increase in fatalities.
-With the information provided, we will be able to advise the ASN on how to potentially minimize the severity of a given airline crash.
+
+We approached this challenge as if we were hired by the [Aviation Safety Network](https://aviation-safety.net) (ASN) in conjunction with the [Flight Safety Foundation](https://flightsafety.org) to investigate which factors contributed to the increase in flight-related fatalities during 2018. Despite 2018 being one of the safest years on record for commercial aviation, there was a 50% increase in incidents from 2017 resulting in more than a 1000% increase in fatalities. With the information provided, we will be able to advise the ASN on how to potentially minimize the severity of a given airline crash. 
 
 [Data Source](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/machine-learning/how-severe-can-an-airplane-accident-be-03e7a3f1/)
 

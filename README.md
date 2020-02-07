@@ -8,18 +8,44 @@
 
 
 ## Context
-In 2018, there were 15 airplane accidents of varying severity each year, with over 500 deaths. Although airplane safety continues to increase each year, we are interested in knowing if this number can be reduced further. We plan to investigate this by predicting the severity of a crash based on crash details, and determining which factors weight the most heavily on the severity of an accident.
+
+We approached this challenge as if we were hired by the [Aviation Safety Network](https://aviation-safety.net) (ASN) in conjunction with the [Flight Safety Foundation](https://flightsafety.org) to investigate which factors contributed to the increase in flight-related fatalities during 2018. Despite 2018 being one of the safest years on record for commercial aviation, there was a 50% increase in incidents from 2017 resulting in more than a 1000% increase in fatalities. With the information provided, we will be able to advise the ASN on how to potentially minimize the severity of a given airline crash. 
 
 [Data Source](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/machine-learning/how-severe-can-an-airplane-accident-be-03e7a3f1/)
 
-## Goals
+## Project Goals
 
-Predict the severity of an airplane accident based on several features:
-* Number of days since inspection
+We want to predict the severity of an airplane accident based on several features:
+* Number of days since inspection 
 * Total safety complains
 * An estimation of how much control the pilot had during the incident
 * Turbulence
 * Cabin temperature
 * Accident type
-* Max elevation
+* Max elevation achieved
 * Number of prior violations
+* Safety score (a measure of how safe the plane was deemed to be)
+
+## Data Summary 
+The data came from a competition hosted by [hackerearth.com](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/machine-learning/how-severe-can-an-airplane-accident-be-03e7a3f1/). The data came separated in two csv files, one labeled train and the other labeled test. Only the train data was used to develop our models. The test csv was used to validate our results after we had trained our models. 
+
+## File Summary
+
+**Data Files**
+* [Data Files](https://github.com/dalayne95/airplane-crash-predictor/tree/master/3c055e822d5b11ea)
+
+**Data Cleaning Files**
+* [Cleaning](https://github.com/dalayne95/airplane-crash-predictor/blob/master/data_cleaning.py)
+
+**Notebooks:**
+* [Exploratory Data Analysis]()
+* [Technical Notebook](https://github.com/dalayne95/airplane-crash-predictor/blob/master/project_notebook.ipynb)
+
+**Presentation:**
+* [Presentation Slide Deck]()
+
+
+
+
+
+

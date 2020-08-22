@@ -38,7 +38,7 @@ The data came from a competition hosted by [hackerearth.com](https://www.hackere
 * [Cleaning](https://github.com/dalayne95/airplane-crash-predictor/blob/master/data%20cleaning/data_cleaning.py)
 
 **Notebook:**
-* [Technical Notebook](https://github.com/dalayne95/airplane-crash-predictor/blob/master/technical%20notebook/project_notebook.ipynb)
+* [Technical Notebook](https://github.com/treyounce/airplane-crash-predictor/blob/master/project_notebook.ipynb)
 
 **Presentation:**
 * [Presentation Slide Deck](https://docs.google.com/presentation/d/1GyPhu81TtPxANO8mFjH0Ba-TxUnnO-QVRqcD7xyeVDE/present?includes_info_params=1&eisi=CMbM7OWLu-cCFeYvyAodNrgLmw#slide=id.p

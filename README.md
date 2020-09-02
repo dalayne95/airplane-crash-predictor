@@ -1,6 +1,6 @@
 # Classifying Airplane Accidents Based on Severity
 
-![](images/Title%20slide%20ACP.pdf)
+![](Images/TitleSlideACP.png)
 
 ## Project Members
 

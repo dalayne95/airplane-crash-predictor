@@ -1,5 +1,7 @@
 # Classifying Airplane Accidents Based on Severity
 
+![github small](https://github.com/treyounce/airplane-crash-predictor/blob/master/Title%20slide%20ACP.pdf)
+
 ## Project Members
 
 * [Darian Madere](https://github.com/dalayne95)
